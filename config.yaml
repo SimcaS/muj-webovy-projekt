@@ -1,5 +1,5 @@
-title: Simca Hugo test
-baseURL: https://xyz.netlify.com/
+title: My New Hugo Site
+baseURL: https://keen-johnson-22c6e6.netlify.com/
 languageCode: cs-cz
 publishDir: public
 
